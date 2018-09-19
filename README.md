@@ -8,7 +8,7 @@ Permanently archived at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.118
 
 ## Contents
 
-R scripts used to analyse metaBEAT output and produce figures [(here)](https://github.com/lrharper1/crucian_carp_eDNA_surveillance/tree/master/R%20scripts)
+R scripts used to analyse qPCR data and produce figures [(here)](https://github.com/lrharper1/crucian_carp_eDNA_surveillance/tree/master/R%20scripts)
 
 Data needed to run analyses in R [(here)](https://github.com/lrharper1/crucian_carp_eDNA_surveillance/tree/master/Data/)
 
