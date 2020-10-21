@@ -2,7 +2,7 @@
 
 Data processing workflow and supplementary data for:
 
-Harper *et al.* (2018) Development and application of environmental DNA surveillance for the threatened crucian carp (<i>Carassius carassius</i>). <i>Freshwater Biology</i>.
+Harper *et al.* (2019) Development and application of environmental DNA surveillance for the threatened crucian carp (*Carassius carassius*). *Freshwater Biology*, __64__, 93-107. https://doi.org/10.1111/fwb.13197
 
 Permanently archived at: [![DOI](https://zenodo.org/badge/149409935.svg)](https://zenodo.org/badge/latestdoi/149409935)
 
